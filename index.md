@@ -2,6 +2,8 @@
 
 ## Homework 1
 
-[Here](HW1_Q1.html) is my homework.
+[Here](HW1_Q1.html) is first question.
 
-[Here](example_homework_0.html) is my homework examples. 
+[Here](HW1_Q2.html) is second question.
+
+[Here](HW1_Q3.html) is third question.
