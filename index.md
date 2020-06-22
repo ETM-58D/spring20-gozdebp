@@ -15,6 +15,4 @@
 
 ##Homework 4
 
-[Here](hw4.html) is my 4th homework.
-
 [Here](hw4_new.txt) is my 4th homework.
